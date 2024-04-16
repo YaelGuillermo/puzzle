@@ -1,0 +1,34 @@
+C:\Users\CAMERINO\Documents\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.csprojResolveAssemblyReference.cache
+C:\Users\CAMERINO\Documents\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.FRompecabezas.resources
+C:\Users\CAMERINO\Documents\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.Properties.Resources.resources
+C:\Users\CAMERINO\Documents\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.csproj.GenerateResource.Cache
+C:\Users\CAMERINO\Documents\PRompecabezas\PRompecabezas\bin\Debug\PRompecabezas.exe
+C:\Users\CAMERINO\Documents\PRompecabezas\PRompecabezas\bin\Debug\PRompecabezas.pdb
+C:\Users\CAMERINO\Documents\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.exe
+C:\Users\CAMERINO\Documents\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.pdb
+C:\Users\Tadeo Vazquez\Documents\Memoria USB\Tadeo\PRompecabezas\PRompecabezas\bin\Debug\PRompecabezas.exe
+C:\Users\Tadeo Vazquez\Documents\Memoria USB\Tadeo\PRompecabezas\PRompecabezas\bin\Debug\PRompecabezas.pdb
+C:\Users\Tadeo Vazquez\Documents\Memoria USB\Tadeo\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.csprojResolveAssemblyReference.cache
+C:\Users\Tadeo Vazquez\Documents\Memoria USB\Tadeo\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.FRompecabezas.resources
+C:\Users\Tadeo Vazquez\Documents\Memoria USB\Tadeo\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.Properties.Resources.resources
+C:\Users\Tadeo Vazquez\Documents\Memoria USB\Tadeo\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.csproj.GenerateResource.Cache
+C:\Users\Tadeo Vazquez\Documents\Memoria USB\Tadeo\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.exe
+C:\Users\Tadeo Vazquez\Documents\Memoria USB\Tadeo\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.pdb
+C:\Users\ferha\Downloads\PRompecabezas\PRompecabezas\PRompecabezas\bin\Debug\PRompecabezas.exe
+C:\Users\ferha\Downloads\PRompecabezas\PRompecabezas\PRompecabezas\bin\Debug\PRompecabezas.pdb
+C:\Users\ferha\Downloads\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.csproj.AssemblyReference.cache
+C:\Users\ferha\Downloads\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.FRompecabezas.resources
+C:\Users\ferha\Downloads\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.Properties.Resources.resources
+C:\Users\ferha\Downloads\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.csproj.GenerateResource.cache
+C:\Users\ferha\Downloads\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.csproj.CoreCompileInputs.cache
+C:\Users\ferha\Downloads\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.exe
+C:\Users\ferha\Downloads\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.pdb
+C:\Users\ferha\source\repos\PRompecabezas\PRompecabezas\PRompecabezas\bin\Debug\PRompecabezas.exe
+C:\Users\ferha\source\repos\PRompecabezas\PRompecabezas\PRompecabezas\bin\Debug\PRompecabezas.pdb
+C:\Users\ferha\source\repos\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.csproj.AssemblyReference.cache
+C:\Users\ferha\source\repos\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.FRompecabezas.resources
+C:\Users\ferha\source\repos\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.Properties.Resources.resources
+C:\Users\ferha\source\repos\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.csproj.GenerateResource.cache
+C:\Users\ferha\source\repos\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.csproj.CoreCompileInputs.cache
+C:\Users\ferha\source\repos\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.exe
+C:\Users\ferha\source\repos\PRompecabezas\PRompecabezas\PRompecabezas\obj\Debug\PRompecabezas.pdb
